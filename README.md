@@ -1,2 +1,2 @@
 # holbertonschool-binary_trees
-Binary trees
+Binary trees - 18 tasks.
